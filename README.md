@@ -100,5 +100,5 @@
 [101infotech_linkedin]: https://linkedin.com/company/101infotech
 [facebook]: https://www.facebook.com/Mirojchamlin
 [twitter]: https://twitter.com/MirojRai
-[instagram]: https://instagram.com/miroj_rai
+[instagram]: https://instagram.com/miroj__rai
 [linkedin]: https://www.linkedin.com/in/sagar-chhetri-098146167/

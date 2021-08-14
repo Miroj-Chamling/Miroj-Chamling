@@ -4,23 +4,23 @@
 
 ## I'm a Full Stack Developer!!
 
-- 🏢 I am co-founder of [101infotech][101infotech]
-- 🌱 I’m currently learning
+- 🏢 I am intern member of [101infotech][101infotech]
+- 🌱 I’m currently learning flutter app devs.
 - 👯 I’m looking to improve my own skills and help other to improve theirs
-- 📫 How to reach me: slaure354@gmail.com
+- 📫 How to reach me: mirojrai01@gmail.com
 - ⚡ Fun fact: I love to listen music and interested in game dev.
 
 <!-- ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="lauresagar Spotify Playing" width="350" />](https://open.spotify.com/user/mnz9tolo0hsqn78yw408u2dzb?si=f942f0f9188348c8) -->
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="miroj Spotify Playing" width="350" />](https://open.spotify.com/user/mnz9tolo0hsqn78yw408u2dzb?si=f942f0f9188348c8) -->
 
 ### Connect with me:
 
-[<img align="left" alt="sagarchhetri101.com.np" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Laure_Sagar | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Laure_Sagar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<!--[<img align="left" alt="sagarchhetri101.com.np" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
+[<img align="left" alt="Miroj Chamling | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="MirojRai | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Laure_Sagar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Laure_Sagar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="miroj_rai | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 

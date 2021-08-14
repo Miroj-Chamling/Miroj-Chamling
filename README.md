@@ -64,7 +64,7 @@ BLOG-POST-LIST:END -->
 
 ### Lets Listen and Code Together (Spotify)
 
-[![Spotify](https://spotify-orpin.vercel.app/api/spotify)](https://www.spotify.com/np-en/account/overview/?utm_source=spotify&utm_medium=menu&utm_campaign=your_account)
+[![Spotify](https://spotify-orpin.vercel.app/api/spotify)](https://open.spotify.com/user/mnz9tolo0hsqn78yw408u2dzb?si=b4b7487bfb5446f5)
 
 <br />
 

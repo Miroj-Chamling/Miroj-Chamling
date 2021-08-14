@@ -51,12 +51,10 @@
 <!-- BLOG-POST-LIST:START 
 - [Nepal’s E-comm Amasses NPR 8 Billion As COVID-19 Boosts Online Sales!](https://dev.to/lauresagar/nepal-s-e-comm-amasses-npr-8-billion-as-covid-19-boosts-online-sales-3b0d)
 BLOG-POST-LIST:END -->
-
 <br />
 
 ### My Top languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miroj-lovesmomo&langs_count=8&layout=compact)]
-
 
 
 ### My Github Stats:
@@ -68,8 +66,6 @@ BLOG-POST-LIST:END -->
 ### Lets Listen and Code Together (Spotify)
 
 [![Spotify](https://spotify-orpin.vercel.app/api/spotify)](https://open.spotify.com/user/31szjkuzr3lnbmvrijylwdy2l27i)
-
-<br />
 
 ## Organizations I work with:
 

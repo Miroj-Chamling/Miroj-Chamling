@@ -1,7 +1,6 @@
-### Hi there 👋 , I'm Sagar Chhetri - aka [Laure-Sagar][website]
+### Hi there 👋 , I'm Miroj <!--[Laure-Sagar][website]-->
 
-[![Website](https://img.shields.io/website?label=SAGARCHHETRI101.COM.NP&style=for-the-badge&url=https://sagarchhetri101.com.np)](https://sagarchhetri101.com.np)
-[![Twitter Follow](https://img.shields.io/twitter/follow/laure_sagar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=laure_sagar)
+[![Twitter Follow](https://img.shields.io/twitter/follow/MirojRai?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=MirojRai)
 
 ## I'm a Full Stack Developer!!
 

@@ -58,7 +58,7 @@ BLOG-POST-LIST:END -->
 
 ### My Github Stats:
 
-![Miroj's GitHub stats](https://github-readme-stats.vercel.app/api?username=miroj_lovesmomo&show_icons=true&theme=vue-dark&hide=stars,prs&count_private=true)
+![Miroj's GitHub stats](https://github-readme-stats.vercel.app/api?username=miroj-lovesmomo&show_icons=true&theme=vue-dark&hide=stars,prs&count_private=true)
 
 <br />
 

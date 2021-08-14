@@ -58,13 +58,13 @@ BLOG-POST-LIST:END -->
 
 ### My Github Stats:
 
-![Miroj's GitHub stats](https://github-readme-stats.vercel.app/api?username=miroj-lovesmomo&show_icons=true&theme=vue-dark&hide=stars,prs&count_private=true)
+![Miroj's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=vue-dark&hide=stars,prs&count_private=true)
 
 <br />
 
 ### Lets Listen and Code Together (Spotify)
 
-[![Spotify](https://spotify-orpin.vercel.app/api/spotify)](https://open.spotify.com/user/	31szjkuzr3lnbmvrijylwdy2l27i)
+[![Spotify](https://spotify-orpin.vercel.app/api/spotify)](https://www.spotify.com/np-en/account/overview/?utm_source=spotify&utm_medium=menu&utm_campaign=your_account)
 
 <br />
 

@@ -98,7 +98,7 @@
 [101infotech_instagram]: https://instagram.com/101infotech
 [101infotech_twitter]: https://twitter.com/101infotech
 [101infotech_linkedin]: https://linkedin.com/company/101infotech
-[facebook]: https://https://www.facebook.com/profile.php?id=100028308500385
+[facebook]: https://www.facebook.com/MirojChamling
 [twitter]: https://twitter.com/laure_sagar
 [instagram]: https://instagram.com/laure_Sagar
 [linkedin]: https://www.linkedin.com/in/sagar-chhetri-098146167/

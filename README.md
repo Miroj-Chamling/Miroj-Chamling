@@ -57,7 +57,7 @@ BLOG-POST-LIST:END -->
 <br />
 
 ### My Top languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miroj-lovesmomo)](https://github.com/miroj-lovesmomo/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miroj-lovesmomo)]
 
 
 ### My Github Stats:

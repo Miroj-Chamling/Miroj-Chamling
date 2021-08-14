@@ -64,7 +64,7 @@ BLOG-POST-LIST:END -->
 
 ### Lets Listen and Code Together (Spotify)
 
-[![Spotify](https://spotify-orpin.vercel.app/api/spotify)](https://open.spotify.com/user/31szjkuzr3lnbmvrijylwdy2l27i)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31szjkuzr3lnbmvrijylwdy2l27i&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31szjkuzr3lnbmvrijylwdy2l27i&redirect=true)
 
 ## Organizations I work with:
 

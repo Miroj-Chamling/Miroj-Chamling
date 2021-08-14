@@ -61,7 +61,6 @@ BLOG-POST-LIST:END -->
 
 ![Miroj's GitHub stats](https://github-readme-stats.vercel.app/api?username=miroj-lovesmomo&show_icons=true&theme=radical&hide=stars,prs&count_private=true)
 
-<br />
 
 ### Lets Listen and Code Together (Spotify)
 

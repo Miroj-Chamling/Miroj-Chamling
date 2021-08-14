@@ -4,7 +4,7 @@
 
 ## I'm a Full Stack Developer!!
 
-- 🏢 I am intern member of [101infotech][101infotech]
+- 🏢 I am an intern member of [101infotech][101infotech]
 - 🌱 I’m currently learning flutter app devs.
 - 👯 I’m looking to improve my own skills and help other to improve theirs
 - 📫 How to reach me: mirojrai01@gmail.com
@@ -12,7 +12,7 @@
 
 <!-- ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="miroj Spotify Playing" width="350" />](https://open.spotify.com/user/mnz9tolo0hsqn78yw408u2dzb?si=f942f0f9188348c8) -->
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="miroj Spotify Playing" width="350" />](https://open.spotify.com/user/31szjkuzr3lnbmvrijylwdy2l27i) -->
 
 ### Connect with me:
 

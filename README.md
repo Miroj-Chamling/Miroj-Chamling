@@ -17,7 +17,7 @@
 ### Connect with me:
 
 <!--[<img align="left" alt="sagarchhetri101.com.np" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
-[<img align="left" alt="Miroj Chamling | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][https://www.facebook.com/profile.php?id=100028308500385]
+[<img align="left" alt="Miroj Chamling | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="MirojRai | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Laure_Sagar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="miroj_rai | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -98,7 +98,7 @@
 [101infotech_instagram]: https://instagram.com/101infotech
 [101infotech_twitter]: https://twitter.com/101infotech
 [101infotech_linkedin]: https://linkedin.com/company/101infotech
-[facebook]: https://www.facebook.com/chhetri.sagar.146
+[facebook]: https://www.facebook.com/Miroj Chamling
 [twitter]: https://twitter.com/laure_sagar
 [instagram]: https://instagram.com/laure_Sagar
 [linkedin]: https://www.linkedin.com/in/sagar-chhetri-098146167/

@@ -64,7 +64,7 @@ BLOG-POST-LIST:END -->
 
 ### Lets Listen and Code Together (Spotify)
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31szjkuzr3lnbmvrijylwdy2l27i&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31szjkuzr3lnbmvrijylwdy2l27i&cover_image=true&theme=novatorem)]]
+![spotify-github-profile]([[https://spotify-github-profile.vercel.app/api/view.svg?uid=31szjkuzr3lnbmvrijylwdy2l27i&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31szjkuzr3lnbmvrijylwdy2l27i&cover_image=true&theme=novatorem)]])
 ## Organizations I work with:
 
 ### 101INFOTECH

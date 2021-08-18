@@ -67,7 +67,7 @@ BLOG-POST-LIST:END -->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31szjkuzr3lnbmvrijylwdy2l27i&cover_image=true&theme=novatorem)](https://open.spotify.com/user/31szjkuzr3lnbmvrijylwdy2l27i)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Miroj-Chamling" alt="Miroj-Chamling" /></p>
+
 
 ## Organizations I work with:
 

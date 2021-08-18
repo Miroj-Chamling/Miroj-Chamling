@@ -60,7 +60,7 @@ BLOG-POST-LIST:END -->
 
 ### My Github Stats:
 
-![Miroj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laure-Miroj-Chamling&show_icons=true&theme=vue-dark&hide=stars,prs&count_private=true)
+![Miroj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miroj-Chamling&show_icons=true&theme=vue-dark&hide=stars,prs&count_private=true)
 
 
 ### Lets Listen and Code Together (Spotify)

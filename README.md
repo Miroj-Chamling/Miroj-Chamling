@@ -60,12 +60,14 @@ BLOG-POST-LIST:END -->
 
 ### My Github Stats:
 
-![Miroj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miroj-Chamling&show_icons=true&theme=radical&hide=stars,prs&count_private=true)
+![Miroj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miroj-Chamling&show_icons=true&locale=en)
 
 
 ### Lets Listen and Code Together (Spotify)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31szjkuzr3lnbmvrijylwdy2l27i&cover_image=true&theme=novatorem)](https://open.spotify.com/user/31szjkuzr3lnbmvrijylwdy2l27i)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Miroj-Chamling" alt="Miroj-Chamling" /></p>
 
 ## Organizations I work with:
 

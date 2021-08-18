@@ -13,6 +13,7 @@
 <!-- ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="miroj Spotify Playing" width="350" />](https://open.spotify.com/user/mnz9tolo0hsqn78yw408u2dzb?si=f942f0f9188348c8) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MirojChamling&label=Profile%20views&color=0e75b6&style=flat" alt="Miroj-Chamling" /> </p>
 
 ### Connect with me:
 

@@ -101,6 +101,5 @@ BLOG-POST-LIST:END -->
 [101infotech_twitter]: https://twitter.com/101infotech
 [101infotech_linkedin]: https://linkedin.com/company/101infotech
 [facebook]: https://www.facebook.com/Mirojchamlin
-[twitter]: https://twitter.com/MirojRai
 [instagram]: https://instagram.com/miroj__rai
 [linkedin]: https://www.linkedin.com/in//miroj-rai-0942a821a/

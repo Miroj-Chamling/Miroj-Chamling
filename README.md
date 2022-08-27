@@ -1,7 +1,7 @@
-### Hi there 👋 , I'm Miroj <!--[Laure-Sagar][website]-->
+### Hi there 👋 , I'm Miroj.
 
 
-I love developing 📱 <b>Flutter Apps </b> 🌏 <b> Web Apps </b>.
+I love developing 📱 <b>Flutter Apps </b>  🌏 <b> Web Apps </b>.
 
 - 🏢 I am intern member of [101infotech][101infotech]
 - 🌱 I’m currently learning flutter app devs.

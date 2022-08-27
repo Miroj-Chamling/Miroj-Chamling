@@ -1,7 +1,7 @@
 ### Hi there 👋 , I'm Miroj <!--[Laure-Sagar][website]-->
 
 
-## I'm a Full Stack Developer!!
+I love developing 📱 <b>Flutter Apps </b> 🌏 <b> Web Apps </b>.
 
 - 🏢 I am intern member of [101infotech][101infotech]
 - 🌱 I’m currently learning flutter app devs.

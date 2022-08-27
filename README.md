@@ -3,9 +3,10 @@
 
 I love developing 📱 <b>Flutter Apps </b>  🌏 <b> Web Apps </b>.
 
-- 🏢 I am intern member of [101infotech][101infotech]
-- 🌱 I’m currently learning flutter app devs.
-- 👯 I’m looking to improve my own skills and help other to improve theirs
+- 🧑‍💻 Available for freelancing and remote works.
+- 💻 Currently pursuing Bachelors in Computer Science and Information Technology.
+- 🤝 Open source collaborations.
 - 📫 How to reach me: mirojrai01@gmail.com
+- ⛹️‍♂️ 70% programmer, 30% baller.
 - ⚡ Fun fact: Walmart has a lower acceptance rate than Harvard !.
 

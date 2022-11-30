@@ -7,6 +7,5 @@ I love developing 📱 <b>Flutter Apps </b>  🌏 <b> Web Apps </b>.
 - 💻 Currently pursuing Bachelors in Computer Science and Information Technology.
 - 🤝 Open source collaborations.
 - 📫 How to reach me: mirojrai01@gmail.com
-- ⛹️‍♂️ 70% programmer, 30% baller.
 - ⚡ Fun fact: Walmart has a lower acceptance rate than Harvard !.
 

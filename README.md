@@ -1,7 +1,7 @@
 ### Hi there 👋 , I'm Miroj.
 
 
-I love developing 📱 <b>Flutter Apps </b>  🌏 <b> Web Apps </b>.
+In love with solving problems!
 
 - 🧑‍💻 Available for freelancing and remote works.
 - 💻 Currently pursuing Bachelors in Computer Science and Information Technology.
